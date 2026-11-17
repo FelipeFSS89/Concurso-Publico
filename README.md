@@ -106,15 +106,4 @@ Concurso Publico/
 
 ---
 
-## 🔮 Objetivos Futuros (Roadmap)
-
-- Integração com Telegram (Bot de avisos)
-- Integração com WhatsApp (Disparador de alertas)
-- Integração com E-mail (Boletim semanal)
-- Aplicativo Mobile nativo
-- Dashboard Avançado de notas de corte
-- Sincronização em Nuvem multi-dispositivo
-
----
-
 © 2026 - Desenvolvido por **Felipe Sousa**. Todos os direitos reservados.
